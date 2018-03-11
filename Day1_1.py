@@ -10,4 +10,3 @@ for i in elements:
 standardDeviation = round((value / N) ** 0.5, 1)
 
 print(standardDeviation)
-
