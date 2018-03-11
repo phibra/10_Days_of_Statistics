@@ -34,7 +34,4 @@ q3 = int(median(snip(elements, 1)))
         
 print(q1)
 print(q2)
-print(q3)
-        
-        
-        
+print(q3)            
